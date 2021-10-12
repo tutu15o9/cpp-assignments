@@ -1,0 +1,54 @@
+Details of st1 
+
+---------------------------------------------------------
+         lastName- 0
+         firstName- 0
+         standing- Lower Freshman
+         credits- 0
+         gpa- 0
+         dateOfBirth- 0
+         matriculationDate- 0
+
+
+Details of st1 after changes
+
+---------------------------------------------------------
+         lastName- LS
+         firstName- FS
+         standing- Upper Junior
+         credits- 85
+         gpa- 3.5
+         dateOfBirth- 08-11-1998
+         matriculationDate- 09-05-2020
+
+
+Details of st2
+
+---------------------------------------------------------
+         lastName- FS2
+         firstName- LS2
+         standing- Upper Sophomore
+         credits- 45
+         gpa- 09-01-2000
+         dateOfBirth- 3.5
+         matriculationDate- 09-05-2020
+
+Enter the details for student
+Type last name and press enter
+LS3
+Type first name and press enter 
+FS3
+Type credits and press enter 110
+Type gpa and press enter 3.8
+Type date of birth and press enter 10-10-2002
+Type matriculation date and press enter 02-02-2022
+Details of student
+
+---------------------------------------------------------
+         lastName- LS3
+         firstName- FS3
+         standing- Upper Senior
+         credits- 110
+         gpa- 3.8
+         dateOfBirth- 10-10-2002
+         matriculationDate- 02-02-2022
